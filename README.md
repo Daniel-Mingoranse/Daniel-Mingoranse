@@ -1,6 +1,7 @@
 
 
-<h1>Olá, meu nome é Daniel e atualmente estou estudando na área de tecnologia. Gostaria de lhe dar as boas-vindas ao meu GitHub!</h1>
+<h1>Olá, meu nome é Daniel</h1>
+<h3>Atualmente estou estudando na área de tecnologia. Gostaria de lhe dar as boas-vindas ao meu GitHub!</h3>
 
 <p>É muito gratificante saber que outras pessoas estão interessadas no meu trabalho e estou animado para compartilhar meus projetos com você. A tecnologia é uma área fascinante e estou constantemente aprendendo e me desenvolvendo nesse campo. Espero poder contribuir para a comunidade e crescer junto com ela. Fique à vontade para explorar meu GitHub e sinta-se à vontade para entrar em contato comigo se tiver alguma dúvida ou sugestão. Obrigado por visitar meu perfil e espero que possamos trocar muitas ideias sobre tecnologia!</p>
 
