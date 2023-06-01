@@ -6,9 +6,6 @@
 <p>É muito gratificante saber que outras pessoas estão interessadas no meu trabalho e estou animado para compartilhar meus projetos com você. A tecnologia é uma área fascinante e estou constantemente aprendendo e me desenvolvendo nesse campo. Espero poder contribuir para a comunidade e crescer junto com ela. Fique à vontade para explorar meu GitHub e sinta-se à vontade para entrar em contato comigo se tiver alguma dúvida ou sugestão. Obrigado por visitar meu perfil e espero que possamos trocar muitas ideias sobre tecnologia!</p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Mingoranse&show_icons=true&theme=dark)
-
-
 <div style="display: inline_block"><br>
   <p>Eu gostaria de compartilhar as tecnologias nas quais tenho experiência ou estou estudando atualmente. São elas: [Haskell, Typescript, ReactNative, etc..]. Estou empenhado em aprimorar minhas habilidades e conhecimentos nesses campos. Acredito que essas tecnologias têm um grande potencial</p>
   
